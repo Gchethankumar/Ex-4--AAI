@@ -1,5 +1,5 @@
 <H3>NAME:G Chethan Kumar</H3>
-<H3>REGISTER NO:212221240041</H3>
+<H3>REGISTER NO:212222240022</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
